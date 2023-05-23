@@ -206,6 +206,7 @@ kalo dibuat -100px nanti tulisannya malah ke atas
 }
 .sec h3
 {
+    font-size: 2.0em;
     margin-bottom: 10px;
     color: #fff;
 }

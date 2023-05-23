@@ -204,17 +204,16 @@ kalo dibuat -100px nanti tulisannya malah ke atas
     margin-bottom: 10px;
     color: #fff;
 }
+.sec h3
+{
+    margin-bottom: 10px;
+    color: #fff;
+}
 .sec p
 {
     margin-bottom: 10px;
     color: #fff;
     font-size: 20px;
-}
-.sec h3
-{
-    font-size: 2.5em;
-    margin-bottom: 10px;
-    color: #fff;
 }
 .sec img#hompimpa
 {

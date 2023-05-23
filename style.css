@@ -210,6 +210,12 @@ kalo dibuat -100px nanti tulisannya malah ke atas
     color: #fff;
     font-size: 20px;
 }
+.sec h3
+{
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #fff;
+}
 .sec img#hompimpa
 {
     width: 50%;
